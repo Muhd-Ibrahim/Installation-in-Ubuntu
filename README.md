@@ -35,5 +35,5 @@ These steps should help you install and run the Quran app on your Ubuntu system.
 ### install bash
 ```sh
     sudo apt install bash
-    ```
-### 
+```
+
