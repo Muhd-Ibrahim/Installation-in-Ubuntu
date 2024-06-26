@@ -30,3 +30,10 @@ To install the Quran app from the `org.gtaf.quran.flatpakref` file in Ubuntu, yo
     ```
 
 These steps should help you install and run the Quran app on your Ubuntu system. If you encounter any issues, ensure that all dependencies and repositories are correctly configured, and try again.
+
+### Install openbangla keyboard 
+### install bash
+```sh
+    sudo apt install bash
+    ```
+### 
